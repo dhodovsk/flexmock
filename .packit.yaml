@@ -1,0 +1,2 @@
+specfile_path: flexmock.spec
+downstream_package_name: python-flexmock
